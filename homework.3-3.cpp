@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+ //從鍵盤輸入兩個數，求出其最大值
+
 int main()
 {
     int a,b,max;
